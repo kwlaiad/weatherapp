@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="degree_celsius">°C</string>
+    <string name="max_temp">Max. Temp.: </string>
+    <string name="min_temp">Min. Temp.: </string>
+    <string name="sunrise">Sunrise: </string>
+    <string name="sunset">Sunset: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="pressure">Pressure: </string>
+</resources>
